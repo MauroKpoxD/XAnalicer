@@ -1,0 +1,4 @@
+scapy==2.5.0
+argparse>=1.4.0
+ipaddress
+requests

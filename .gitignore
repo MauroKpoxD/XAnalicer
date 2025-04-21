@@ -1,0 +1,32 @@
+# Archivos de Python generados
+cli/__pycache__/
+__pycache__/
+scanner_core/__pycache__/
+*.pyc
+*.pyd
+*.egg-info/
+dist/
+build/
+sdist/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+envs/
+ENV/
+pyvenv.cfg
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de desarrollo local y temporales
+*.log
+*.tmp
+*.swp
+*.bak
+*.ini  # Si tienes archivos de configuración locales sensibles
+
+# Archivos de PyInstaller/cx_Freeze
+*.spec
